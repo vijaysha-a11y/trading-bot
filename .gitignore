@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+*.log
+hs_err_pid*
+.env
